@@ -1,4 +1,4 @@
-#🌸 Iris Dataset Analysis with Pandas & Matplotlib.
+#🌸 Iris Dataset Analysis with Pandas & Matplotlib
 
 https://img.shields.io/badge/Python-3.8%252B-blue?logo=python
 https://img.shields.io/badge/Pandas-1.3%252B-orange?logo=pandas
@@ -44,21 +44,21 @@ Bonus: Box plots, correlation heatmap, and a pair plot for advanced insights.
 text
 iris-analysis/
 │
-├── iris_analysis.py # Main Python script
-├── iris_analysis_visualizations.png # Main composite figure (generated)
-├── iris_box_plots.png # Box plot visualization (generated)
+├── iris_analysis.py          # Main Python script
+├── iris_analysis_visualizations.png  # Main composite figure (generated)
+├── iris_box_plots.png        # Box plot visualization (generated)
 ├── iris_correlation_heatmap.png # Correlation heatmap (generated)
-├── iris_pair_plot.png # Pair plot visualization (generated)
-└── README.md # This file
+├── iris_pair_plot.png        # Pair plot visualization (generated)
+└── README.md                 # This file
 🛠️ Installation & Setup
 Prerequisites
 Ensure you have Python 3.8 or higher installed on your system.
 
 1. Clone or Download the Script
-   Download the iris_analysis.py file to your desired directory.
+Download the iris_analysis.py file to your desired directory.
 
 2. Install Required Libraries
-   Open your terminal or command prompt and run:
+Open your terminal or command prompt and run:
 
 bash
 pip install pandas matplotlib seaborn scikit-learn numpy
@@ -78,8 +78,8 @@ All visualizations will be automatically saved as PNG files in the same director
 📷 Sample Output
 The script generates several visualizations:
 
-Composite Figure Box Plots Correlation Heatmap
-https://i.imgur.com/example1.png https://i.imgur.com/example2.png https://i.imgur.com/example3.png
+Composite Figure	Box Plots	Correlation Heatmap
+https://i.imgur.com/example1.png	https://i.imgur.com/example2.png	https://i.imgur.com/example3.png
 Note: The images above are placeholders. Actual graphs will be generated upon running the script.
 
 🔍 Key Findings
@@ -102,4 +102,3 @@ This project fulfills the requirements for a typical data analysis assignment by
 ✅ Data Visualization with matplotlib and seaborn (Line, Bar, Histogram, Scatter)
 ✅ Professional Plot Customization (titles, labels, legends)
 ✅ Error Handling for robust code execution
-
